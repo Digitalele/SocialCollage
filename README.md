@@ -5,7 +5,7 @@ SocialCollage from Instagram to Twitter
 * Create your own Instagram and Twitter keys
 * Replace # with your info
 
-# Library required
+## Library required
 * [Twitter4J](http://twitter4j.org/en/index.html)
  
 
